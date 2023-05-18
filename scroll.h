@@ -1,0 +1,2 @@
+void description();
+void authors();
